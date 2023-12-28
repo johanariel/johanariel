@@ -1,6 +1,6 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Soy Johan Changoluisa
 =========================================================================================================================================
-[![607c1814-3124-4c6d-a335-98e6f6f74544.jpg](https://i.postimg.cc/MpkKDLq8/607c1814-3124-4c6d-a335-98e6f6f74544.jpg)](https://postimg.cc/JGqL7PsT)
+![bannergod.png](https://tinypic.host/images/2023/12/28/bannergod.png)
 =========================================================================================================================================
 
 Ingeniero en Software
