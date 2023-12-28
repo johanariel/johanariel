@@ -9,9 +9,9 @@ Ingeniero en Software
 
 Apasionado del software, con una fuerte motivación por aprender y crecer en el campo de la informática. Mi enfoque en la resolución de problemas y mi capacidad.
 
-* 🌍  I'm based in Ambato, Tungurahua
-* ✉️  You can contact me at [ariel.changoluisa@gmail.com](mailto:ariel.changoluisa@gmail.com)
-* 🧠  I'm learning React
+* 🌍  Vivo en Ambato, Tungurahua
+* ✉️  Puede contactar conmigo en [ariel.changoluisa@gmail.com](mailto:ariel.changoluisa@gmail.com)
+* 🧠  Estoy aprendiendo React
 
 ### Habilidades
 
