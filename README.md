@@ -10,7 +10,7 @@ Apasionado del software, con una fuerte motivación por aprender y crecer en el 
 * ✉️  You can contact me at [ariel.changoluisa@gmail.com](mailto:ariel.changoluisa@gmail.com)
 * 🧠  I'm learning React
 
-### Skills
+### Habilidades
 
 
 <p align="left">
@@ -18,6 +18,6 @@ Apasionado del software, con una fuerte motivación por aprender y crecer en el 
 </p>
 
 
-### Socials
+### Redes Sociales
 
 <p align="left"> <a href="https://www.github.com/johanariel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/johanarielcs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
