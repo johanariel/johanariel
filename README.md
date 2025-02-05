@@ -9,8 +9,7 @@ Ingeniero en Software
 
 ¡Hola! Soy un apasionado del software con una fuerte motivación por aprender y crecer en el campo de la informática. Mi enfoque en la resolución de problemas y mi capacidad para trabajar en equipos multidisciplinarios me han llevado a explorar diversas áreas de la ingeniería de software.
 
-* 🌍  Vivo en Ambato, Tungurahua
-<!--* 🖥️  Consulte mi portafolio web en [JACS Portfolio](http://vt7w8k-3000.csb.app/) -->
+* 🌍  Vivo en Ambato, Tungurahua <!--* 🖥️  Consulte mi portafolio web en [JACS Portfolio](http://vt7w8k-3000.csb.app/) -->
 * ✉️  Puede contactar conmigo en [ariel.changoluisa@gmail.com](mailto:ariel.changoluisa@gmail.com)
 * 🧠  Estoy aprendiendo React
 
